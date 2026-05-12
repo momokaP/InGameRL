@@ -210,9 +210,13 @@ stamina가 높을수록 reward를 감소시키도록 수정하였습니다.
 
 # Result
 
-Reward 구조 개선 전
+### Reward 구조 개선 전
 
-Reward 구조 개선 후
+https://github.com/user-attachments/assets/372409a0-32e5-4f71-979f-2d4b579bfa65
+
+### Reward 구조 개선 후
+
+https://github.com/user-attachments/assets/2ad68c2f-8d45-4825-8497-9cce7b71698c
 
 Reward 구조 개선 이후 다음과 같은 변화를 확인할 수 있었습니다.
 
