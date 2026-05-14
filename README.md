@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/b8d129af-52a5-4997-9b64-bc99dc159288
 
 # Run
 
+[pre-release](https://github.com/momokaP/InGameRL/releases/tag/v0.1.0-pre)
+
 ---
 
 # 프로젝트 소개
